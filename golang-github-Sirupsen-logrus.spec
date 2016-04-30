@@ -4,7 +4,7 @@
 #
 Name     : golang-github-Sirupsen-logrus
 Version  : 081307d9bc1364753142d5962fc1d795c742baaf
-Release  : 3
+Release  : 4
 URL      : https://github.com/Sirupsen/logrus/archive/081307d9bc1364753142d5962fc1d795c742baaf.tar.gz
 Source0  : https://github.com/Sirupsen/logrus/archive/081307d9bc1364753142d5962fc1d795c742baaf.tar.gz
 Summary  : No detailed summary available
